@@ -1,0 +1,15 @@
+c:\users\а\documents\visual studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\bin\Debug\VK _CRUSHER.exe.config
+c:\users\а\documents\visual studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\bin\Debug\VK _CRUSHER.exe
+c:\users\а\documents\visual studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\bin\Debug\VK _CRUSHER.pdb
+c:\users\а\documents\visual studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK _CRUSHER.csprojResolveAssemblyReference.cache
+c:\users\а\documents\visual studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK__CRUSHER.auht.resources
+c:\users\а\documents\visual studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK__CRUSHER.Form1.resources
+c:\users\а\documents\visual studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK__CRUSHER.Properties.Resources.resources
+c:\users\а\documents\visual studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK _CRUSHER.csproj.GenerateResource.Cache
+c:\users\а\documents\visual studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK _CRUSHER.exe
+c:\users\а\documents\visual studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK _CRUSHER.pdb
+C:\Users\А\Documents\Visual Studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK__CRUSHER.Friends.resources
+C:\Users\А\Documents\Visual Studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK__CRUSHER.userShow.resources
+C:\Users\А\Documents\Visual Studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK__CRUSHER.InputForm.resources
+C:\Users\А\Documents\Visual Studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK__CRUSHER.recap.resources
+C:\Users\А\Documents\Visual Studio 2015\Projects\VK _CRUSHER\VK _CRUSHER\obj\Debug\VK__CRUSHER.searchGroups.resources
